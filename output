@@ -1,0 +1,10 @@
+
+---
+
+### 📦 3. `requirements.txt`
+
+```txt
+opencv-python
+numpy
+reportlab
+Pillow
